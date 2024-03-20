@@ -12,6 +12,8 @@ This file includes functions such as Arithmetic operations:
   ![IMG_20240320_234743](https://github.com/SirishaDigiSpace/C_SideProjects/assets/116715315/1a76ba23-1522-452c-ab77-c78418b3158c)
 
   divide()-Division
+  ![IMG_20240320_234807](https://github.com/SirishaDigiSpace/C_SideProjects/assets/116715315/9d6ee06c-e63a-40bc-83b0-74e957fb2c85)
+
 
   sq()-Square
 
