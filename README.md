@@ -16,6 +16,8 @@ This file includes functions such as Arithmetic operations:
 
 
   sq()-Square
+  ![IMG_20240320_234825](https://github.com/SirishaDigiSpace/C_SideProjects/assets/116715315/c788383a-566a-47f3-9a75-836893b3e98c)
+
   
 
 
